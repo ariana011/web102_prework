@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-(https://i.imgur.com/hTBSRS2.gif)
+(https://i.imgur.com/hTBSRS2.gif) Open video in a new tab!
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
